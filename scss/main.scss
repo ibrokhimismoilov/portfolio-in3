@@ -1,0 +1,14 @@
+// @import "./fontawesome/fontawesome.scss";
+@import "./var";
+@import "./fonts";
+@import "./mixins";
+@import "./base";
+@import "./animation";
+
+// pages
+
+@import "./pages/sidebar";
+@import "./pages/home";
+@import "./pages/portfolio";
+
+@import "./responsive";
